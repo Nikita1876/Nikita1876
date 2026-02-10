@@ -8,12 +8,15 @@
   <a href="mailto:nikitagupta1812@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail">
   </a>
-  <a href="https://www.linkedin.com/in/nikita-gupta-998637269">
+
+  <a href="https://www.linkedin.com/in/nikita-gupta-998637269/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">
   </a>
+
   <a href="https://www.kaggle.com/nikitagupta1812">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle">
-</a>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle">
+  </a>
+</p>
 
   <a href="https://github.com/Nikita1876">
     <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github">
