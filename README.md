@@ -80,15 +80,26 @@ I am actively preparing for **Data Science / Machine Learning / Software Enginee
 
 ---
 
-## GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Nikita1876&show_icons=true&theme=tokyonight&hide_rank=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Nikita1876&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
+
+<p align="center">
+  <i>Consistently learning through hands-on projects, problem solving, and regular practice.</i>
+</p>
+
 
 ---
 
