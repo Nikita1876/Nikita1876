@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/ASPIRING_DATA_ANALYST-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IIT_KANPUR-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/COMPUTER_SCIENCE-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI_%26_ML_ENTHUSIAST-20BEFF?style=for-the-badge" />
 </p>
 
@@ -17,6 +17,10 @@
   <a href="https://www.linkedin.com/in/nikita-gupta-998637269"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
   <a href="https://github.com/Nikita1876"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <b>Computer Science Undergraduate passionate about Data Science, Machine Learning, AI Agents, and building scalable software solutions.</b>
 </p>
 
 ---
@@ -44,15 +48,8 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -92,7 +89,13 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages+%26+Tools&align=center&titleAlign=center&lineCount=3&theme=github_dark&line1=python,Python,3776AB;cplusplus,C%2B%2B,00599C;c,C,A8B9CC;javascript,JavaScript,F7DF1E;mysql,MySQL,4479A1;&line2=pandas,Pandas,150458;numpy,NumPy,013243;scikitlearn,Scikit-Learn,F7931E;tensorflow,TensorFlow,FF6F00;fastapi,FastAPI,009688;&line3=github,GitHub,181717;git,Git,F05032;visualstudiocode,VS+Code,007ACC;jupyter,Jupyter,F37626;googlecolab,Google+Colab,F9AB00;" alt="Nikita's Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,mysql&theme=dark&perline=7" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,fastapi&theme=dark&perline=7" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,jupyter,linux,aws,docker&theme=dark&perline=7" />
 </p>
 
 ---
@@ -124,7 +127,7 @@
 | 🚀 Project | 📝 Description | 🛠️ Tech |
 |-----------|----------------|---------|
 | 🔗 [Project Name](#) | Brief description of what it does | Python, FastAPI, SQL |
-| 🔗 [Project Name](#) | Brief description of what it does | JavaScript, Node.js |
+| 🔗 [Project Name](#) | Brief description of what it does | JavaScript |
 
 </details>
 
@@ -147,7 +150,6 @@
 - 🔥 **53-day longest streak** — consistent daily practice
 - 📚 Strong academic foundation: DSA, DBMS, OS, OOP
 - 🥇 Active on **Kaggle** — datasets & notebooks published
-- 🎯 Building toward top DS/ML internship roles
 
 </details>
 
@@ -161,17 +163,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kshama-1104/Kshama-1104/main/assets/banner.gif" alt="Tech Banner" width="800"/>
-</p>
-
----
-
 ## 🎯 2026 Goals
 
 ```
 ✅ Master Python for Data Science
-✅ Build consistent GitHub streak
+✅ Build consistent GitHub streak (53 days!)
 ⬜ Build & deploy an end-to-end AI Agent
 ⬜ Complete 5+ Kaggle competitions
 ⬜ Land a Data Science / ML internship
