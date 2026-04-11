@@ -101,11 +101,25 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express" />
+<!-- Frontend -->
+<h3>🎨 Frontend</h3>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
+
+<!-- Backend -->
+<h3>⚙️ Backend</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+
+<!-- AI / ML -->
+<h3>🤖 AI / ML</h3>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
-<img src="https://skillicons.dev/icons?i=mongodb,aws,docker" />
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+
+<!-- Databases -->
+<h3>🗄️ Databases</h3>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+<!-- Tools -->
+<h3>🧰 Tools & Platforms</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,aws,firebase" />
 
 </div>
 
