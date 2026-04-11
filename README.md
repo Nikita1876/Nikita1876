@@ -98,18 +98,17 @@
 ```
 ## ✨ 🛠️ Languages & Tools
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express" /><br><br>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,redux,nodejs,express" height="70"/><br><br>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,numpy,pandas,sklearn,tensorflow,pytorch,opencv" /><br><br>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,numpy,pandas,matplotlib,seaborn,sklearn,tensorflow,pytorch,opencv" height="70"/><br><br>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,azure,gcp,docker,kubernetes" /><br><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,azure,gcp,docker,kubernetes" height="70"/><br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,jupyter,linux,bash,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,jupyter,linux,bash,figma" height="70"/>
 
-</p>
-
+</div>
 ### 🏆 Competitive Programming & Profiles
 <p align="left">
   <a href="https://leetcode.com/YOUR_USERNAME" target="_blank">
@@ -136,7 +135,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-### 🔝 Top Contributed Repo
 
 ## 🔝 Top Contributed Repo
 
