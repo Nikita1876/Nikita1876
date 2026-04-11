@@ -1,13 +1,31 @@
-<h1 align="center">
-  <span style="color:#00F7FF;"><b>Nikita Gupta</b></span>
-</h1>
+<div align="center">
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Nikita%20Gupta&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+ML+%7C+Data+Science;Building+AI+Agents;Future+ML+Engineer" />
+
+<p>
   <img src="https://img.shields.io/badge/ASPIRING_DATA_ANALYST-555555?style=for-the-badge" />
   <img src="https://img.shields.io/badge/COMPUTER_SCIENCE-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI_%26_ML_ENTHUSIAST-20BEFF?style=for-the-badge" />
 </p>
 
+<p>
+  <a href="mailto:nikitagupta1812@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nikita-gupta-998637269">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Nikita1876">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</div>
 <p align="center">
   <a href="mailto:nikitagupta1812@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
