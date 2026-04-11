@@ -132,8 +132,6 @@
 
 ## 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nikita1876/Nikita1876/output/github-snake.svg" />
 </p>
