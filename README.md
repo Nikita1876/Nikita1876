@@ -137,27 +137,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikita1876&theme=gotham&border_radius=10" alt="Streak" />
 </p>
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gotham" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=gotham" alt="Streak" />
-</p>
-
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" alt="Streak" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nikita1876&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
 ### ✍️ Random Dev Quote
 
 <p align="center">
