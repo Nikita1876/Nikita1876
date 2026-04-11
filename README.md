@@ -92,17 +92,10 @@
 
 ## 🛠️ Languages & Tools
 
+## 🛠️ Languages & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css&theme=dark&perline=7" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas,opencv,streamlit&theme=dark&perline=7" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jupyter,idea,pycharm,vscode,github,git,docker&theme=dark&perline=7" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,mysql,mongodb,fastapi,flask&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,aws,python,java,c,cpp,git,github,vscode,jupyter,opencv,tensorflow,pytorch,sklearn&perline=7" />
 </p>
 
 ---
@@ -139,11 +132,13 @@
 
 ---
 
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Nikita1876/Nikita1876/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/Nikita1876/Nikita1876/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 ---
 
