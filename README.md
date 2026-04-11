@@ -90,51 +90,34 @@
   - 💻 Learned C, C++, Java & Core Programming
 ```
 
----
+
 ## 🛠 Languages & Tools
 
-<table width="100%">
-  <tr>
-    <td align="center" width="20%"><strong>Web Dev</strong></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb" height="50" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>AI / ML</strong></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,kaggle,colab,jupyter" height="50" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Coding</strong></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,cs" height="50" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Platforms</strong></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,unity,blender,figma" height="50" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,postman,figma&perline=7" height="65" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,kaggle,colab,jupyter,fastapi&perline=7" height="65" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,unity,blender,aws,docker&perline=7" height="65" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,replit,linux,bash,mysql,postgre&perline=7" height="65" />
+</p>
 
 ### 🏆 Competitive Programming & Profiles
 <p align="left">
   <a href="https://leetcode.com/Nikita1876" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="40" />
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="45" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_ID/" target="_blank">
-    <img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" height="40" />
+  <a href="https://www.geeksforgeeks.org/user/Nikita1876/" target="_blank">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" height="45" />
   </a>
-  <a href="https://www.kaggle.com/YOUR_KAGGLE_ID" target="_blank">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="40" />
+  <a href="https://www.kaggle.com/Nikita1876" target="_blank">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="45" />
   </a>
 </p>
-
-
-
 ---
 
 ## 📊 GitHub Stats
