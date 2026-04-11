@@ -97,11 +97,17 @@
   - 💻 Learned C, C++, Java & Core Programming
 ```
 
-## 🛠 Languages & Tools
+## 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,postman,figma,py,tensorflow,pytorch,sklearn,kaggle,colab,jupyter,fastapi,mysql,postgres,c,cpp,java,cs,unity,blender,aws,docker,linux,bash,git,github,vscode,replit,pycharm,idea,androidstudio&perline=9" height="75" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+<img src="https://skillicons.dev/icons?i=mongodb,aws,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+
+</div>
 
 <br/>
 
