@@ -96,17 +96,21 @@
   - 🎓 Started B.Tech in Computer Science
   - 💻 Learned C, C++, Java & Core Programming
 ```
-## ✨ 🛠️ Languages & Tools
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,redux,nodejs,express" height="70"/><br><br>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express" height="80"/>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,numpy,pandas,matplotlib,seaborn,sklearn,tensorflow,pytorch,opencv" height="70"/><br><br>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,azure,gcp,docker,kubernetes" height="70"/><br><br>
+<img src="https://skillicons.dev/icons?i=python,pandas,sklearn,tensorflow,pytorch" height="80"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,jupyter,linux,bash,figma" height="70"/>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,docker" height="80"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,kaggle" height="80"/>
 
 </div>
 ### 🏆 Competitive Programming & Profiles
