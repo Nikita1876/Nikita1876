@@ -156,17 +156,7 @@
 
 <p align="center">⭐ <i>Consistently learning through hands-on projects, problem solving, and regular practice.</i> ⭐</p>
 ----
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7B42C&center=true&vCenter=true&width=800&lines=🚀+Welcome+to+My+Tech+Universe;💻+AI+%7C+ML+%7C+Data+Science;🔥+Building+Projects+Daily" />
-</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nikita1876/Nikita1876/main/%E2%9C%A8%20%F0%9F%9B%A0%EF%B8%8F%20Programming%20languages%20and%20tools.png" width="100%" />
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=footer&text=Thanks%20for%20visiting%20my%20GitHub!%20⭐&fontSize=28&fontColor=fff&animation=twinkling" width="100%"/>
