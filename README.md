@@ -160,9 +160,17 @@
 </p>
 
 <p align="center">⭐ <i>Consistently learning through hands-on projects, problem solving, and regular practice.</i> ⭐</p>
+---
+
+## 🚀 Tech Universe
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,express,mongodb,aws,docker,tensorflow,pytorch,sklearn,git,github,vscode&perline=8" />
+</p>
+
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting%20my%20GitHub!%20⭐&fontSize=25&fontColor=fff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=footer&text=Thanks%20for%20visiting%20my%20GitHub!%20⭐&fontSize=28&fontColor=fff&animation=twinkling" width="100%"/>
 </div>
-
 <!-- Proudly created with help from Claude AI -->
