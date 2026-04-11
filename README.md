@@ -91,43 +91,49 @@
 ```
 
 ---
-
 ## 🛠 Languages & Tools
 
-### 🌐 Web Development
+<table width="100%">
+  <tr>
+    <td align="center" width="20%"><strong>Web Dev</strong></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb" height="50" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>AI / ML</strong></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,kaggle,colab,jupyter" height="50" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Coding</strong></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,cs" height="50" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Platforms</strong></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,unity,blender,figma" height="50" />
+    </td>
+  </tr>
+</table>
+
+### 🏆 Competitive Programming & Profiles
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,postman" />
+  <a href="https://leetcode.com/Nikita1876" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="40" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_ID/" target="_blank">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" height="40" />
+  </a>
+  <a href="https://www.kaggle.com/YOUR_KAGGLE_ID" target="_blank">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="40" />
+  </a>
 </p>
 
-### 🤖 AI/ML & Data Science
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,kaggle,colab,jupyter" />
-</p>
 
-### 💻 Programming & DSA
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs" />
-</p>
-
-### 🚀 Tools, Cloud & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,unity,blender,figma" />
-</p>
-
-### 🏆 Coding Profiles & Platforms
-<p align="left">
-  <a href="https://leetcode.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-  </a>
-  <a href="https://v0.dev/chat" target="_blank"> <img src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=for-the-badge&logo=GoogleColab&logoColor=white" />
-  </a>
-</p>
 
 ---
 
