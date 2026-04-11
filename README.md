@@ -1,11 +1,3 @@
-
----
-
-## 🗓️ Milestone Timeline
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nikita%20Gupta&fontSize=50&fontColor=fff" />
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+%7C+ML+%7C+Data+Science;Building+AI+Agents;Future+ML+Engineer" />
 </p>
