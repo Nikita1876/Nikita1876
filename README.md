@@ -94,17 +94,19 @@
 ## 🛠 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,postman,figma&perline=7" height="65" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,postman,figma" height="60" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,kaggle,colab,jupyter,fastapi&perline=7" height="65" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,kaggle,colab,jupyter,fastapi,mysql,postgres" height="60" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,unity,blender,aws,docker&perline=7" height="65" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,unity,blender,aws,docker,linux,bash" height="60" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,replit,linux,bash,mysql,postgre&perline=7" height="65" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,replit,pycharm,idea,androidstudio,postman" height="60" />
 </p>
+
+<br/>
 
 ### 🏆 Competitive Programming & Profiles
 <p align="left">
