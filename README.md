@@ -93,27 +93,49 @@
 ---
 
 ## 🛠 Languages & Tools
+
+### 🌐 Web Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb" alt="Web Development" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,postman" />
 </p>
 
+### 🤖 AI/ML & Data Science
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,kaggle,colab,c,cpp,java" alt="AI/ML & Programming" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,kaggle,colab,jupyter" />
 </p>
 
+### 💻 Programming & DSA
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman,cs,unity,blender" alt="DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs" />
 </p>
 
-## 📊 Data & Comp Programming
+### 🚀 Tools, Cloud & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=jupyter,kaggle" alt="Data Science" />
-  <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,unity,blender,figma" />
+</p>
+
+### 🏆 Coding Profiles & Platforms
+<p align="left">
+  <a href="https://leetcode.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  </a>
+  <a href="https://v0.dev/chat" target="_blank"> <img src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=for-the-badge&logo=GoogleColab&logoColor=white" />
   </a>
 </p>
 
-<br/>
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikita1876&show_icons=true&theme=gotham&border_radius=10" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikita1876&theme=gotham&border_radius=10" alt="Streak" />
+</p>
 
 ## 📈 GitHub Stats
 <p align="center">
