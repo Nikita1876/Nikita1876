@@ -1,9 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Nikita%20Gupta&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20CS%20Undergraduate&descAlignY=55&descSize=18" />
-</div>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=🤖+Building+AI+Agents+%7C+Learning+Daily;📊+Data+Science+%7C+Machine+Learning+%7C+NLP;⚙️+ML+Models+→+Backend+→+Scalable+Solutions;🚀+Targeting+Top+DS+%26+ML+Roles!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=🤖+Building+AI+Agents+%7C+Learning+Daily;📊+Data+Science+%7C+Machine+Learning+%7C+NLP;⚙️+ML+Models+→+Backend+→+Scalable+Solutions;🚀+Targeting+Top+DS+%26+ML+Roles!" />
 </p>
 
 <p align="center">
@@ -13,12 +9,19 @@
 </p>
 
 <p align="center">
-  <a href="mailto:nikitagupta1812@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nikita-gupta-998637269"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://github.com/Nikita1876"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:nikitagupta1812@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nikita-gupta-998637269">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Nikita1876">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-
 ---
 
 ## 💫 About Me
