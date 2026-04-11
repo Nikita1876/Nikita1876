@@ -90,33 +90,42 @@
   - 💻 Learned C, C++, Java & Core Programming
 ```
 
-
 ## 🛠 Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,postman,figma" height="60" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,kaggle,colab,jupyter,fastapi,mysql,postgres" height="60" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,unity,blender,aws,docker,linux,bash" height="60" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,replit,pycharm,idea,androidstudio,postman" height="60" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,postman,figma&perline=5" height="75" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,kaggle,colab,jupyter,fastapi,mysql,postgres&perline=5" height="75" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,unity,blender,aws,docker,linux,bash&perline=5" height="75" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,replit,pycharm,idea,androidstudio,pydantic&perline=5" height="75" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ### 🏆 Competitive Programming & Profiles
-<p align="left">
-  <a href="https://leetcode.com/Nikita1876" target="_blank">
+<p align="center">
+  <a href="https://leetcode.com/YOUR_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="45" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/Nikita1876/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/" target="_blank">
     <img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" height="45" />
   </a>
-  <a href="https://www.kaggle.com/Nikita1876" target="_blank">
+  <a href="https://www.kaggle.com/YOUR_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="45" />
   </a>
 </p>
