@@ -126,9 +126,11 @@
 
 ### 🔝 Top Contributed Repo
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikita1876&repo=YOUR_REPO_NAME" />
----
+## 🔝 Top Contributed Repo
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikita1876&repo=100-Days-ML-Learning&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🐍 Contribution Snake
 
