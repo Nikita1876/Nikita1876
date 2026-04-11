@@ -60,10 +60,10 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 ---
@@ -95,33 +95,24 @@
 
 ## 🛠️ Languages & Tools
 
-<!-- Row 1: Programming Languages -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js&theme=dark&perline=7" />
-</p>
+<!-- 
+  ⭐ AFTER uploading github_image.png to your repo, replace this section with:
+  <p align="center"><img src="github_image.png" width="760" /></p>
+  
+  Until then, using skillicons rows below:
+-->
 
-<!-- Row 2: ML / Data Science -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,fastapi&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,mysql&theme=dark&perline=7" />
 </p>
-
-<!-- Row 3: Tools & IDEs -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,idea,pycharm&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas,opencv,fastapi&theme=dark&perline=7" />
 </p>
-
-<!-- Row 4: Cloud & Platforms -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,mysql,postgres&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=jupyter,idea,pycharm,vscode,github,git,linux&theme=dark&perline=7" />
 </p>
-
-<!-- Row 5: Jupyter, Colab, Kaggle as badges (not in skillicons) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=1e1e2e" height="45" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=black&labelColor=1e1e2e" height="45" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white&labelColor=1e1e2e" height="45" />
-  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=1e1e2e" height="45" />
-  <img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=1e1e2e" height="45" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,postgres,mongodb,flask,redis,kotlin&theme=dark&perline=7" />
 </p>
 
 ---
@@ -152,8 +143,8 @@
 
 | 🚀 Project | 📝 Description | 🛠️ Tech |
 |-----------|----------------|---------|
-| 🔗 [Project Name](#) | Brief description of what it does | Python, FastAPI, SQL |
-| 🔗 [Project Name](#) | Brief description of what it does | Java, JavaScript |
+| 🔗 [Project Name](#) | Brief description | Python, FastAPI, SQL |
+| 🔗 [Project Name](#) | Brief description | Java, JavaScript |
 
 </details>
 
@@ -163,8 +154,8 @@
 
 | 🚀 Project | 📝 Description | 🛠️ Tech |
 |-----------|----------------|---------|
-| 🔗 [Project Name](#) | ML model / EDA description | Python, Pandas, Sklearn |
-| 🔗 [Project Name](#) | Data analysis / prediction | NumPy, Matplotlib, TF |
+| 🔗 [Project Name](#) | ML model / EDA | Python, Pandas, Sklearn |
+| 🔗 [Project Name](#) | Data analysis | NumPy, Matplotlib, TF |
 
 </details>
 
