@@ -98,32 +98,11 @@
 ```
 ## ✨ 🛠️ Languages & Tools
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nikita1876/Nikita1876/main/skills.png" width="100%" />
+</p>
 
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,redux" height="75"/>
 
-<br><br>
-
-<!-- Backend + Programming -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cpp" height="75"/>
-
-<br><br>
-
-<!-- Data Science / ML -->
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch,opencv" height="75"/>
-
-<br><br>
-
-<!-- Databases + Cloud -->
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,azure,gcp,docker,kubernetes" height="75"/>
-
-<br><br>
-
-<!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,jupyter,linux,bash,figma" height="75"/>
-
-</div>
 ### 🏆 Competitive Programming & Profiles
 <p align="left">
   <a href="https://leetcode.com/YOUR_USERNAME" target="_blank">
