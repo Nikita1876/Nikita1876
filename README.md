@@ -72,8 +72,6 @@
 
  ## 🌐 Connect
 <p align="center"> <a href="mailto:nikitagupta1812@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/nikita-gupta-998637269"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/Nikita1876"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
----
-
 ## 🗓️ Milestone Timeline
 
 ```
@@ -97,11 +95,9 @@
   - 💻 Learned C, C++, Java & Core Programming
 ```
 ## ✨ 🛠️ Languages & Tools
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nikita1876/Nikita1876/main/skills.png" width="100%" />
 </p>
-
 ### 🏆 Competitive Programming & Profiles
 <p align="left">
   <a href="https://leetcode.com/YOUR_USERNAME" target="_blank">
@@ -114,31 +110,22 @@
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="45" />
   </a>
 </p>
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nikita1876&show_icons=true&theme=gotham&border_radius=10" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikita1876&theme=gotham&border_radius=10" alt="Streak" />
 </p>
-
 ### ✍️ Random Dev Quote
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 ## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nikita1876/Nikita1876/output/github-snake.svg" />
 </p>
-
----
- ## Banner 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nikita1876/Nikita1876/main/banner.png" width="100%" />
 </p>
-
 ## 🎯 2026 Goals
 
 ```
