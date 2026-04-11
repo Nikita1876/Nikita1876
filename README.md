@@ -126,17 +126,14 @@
 
 ### 🔝 Top Contributed Repo
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Nikita1876&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikita1876&repo=YOUR_REPO_NAME" />
 ---
 
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Nikita1876/Nikita1876/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Nikita1876/Nikita1876/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 
