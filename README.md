@@ -95,11 +95,8 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,aws,python,java,c,cpp,git,github,vscode,jupyter,opencv,tensorflow,pytorch,sklearn&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,aws,python,tensorflow,pytorch,sklearn,git,github,vscode,jupyter,docker&perline=7" />
 </p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
