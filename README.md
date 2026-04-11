@@ -80,22 +80,9 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB" height="40"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" height="40"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="40"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" height="40"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=black" height="40"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="40"/>
+  <a href="https://github-readme-tech-stack.vercel.app">
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages+%26+Tools&align=center&titleAlign=center&lineCount=3&theme=github_dark&line1=python,Python,3776AB;cplusplus,C%2B%2B,00599C;c,C,A8B9CC;javascript,JavaScript,F7DF1E;mysql,MySQL,4479A1;&line2=pandas,Pandas,150458;numpy,NumPy,013243;scikitlearn,Scikit-Learn,F7931E;jupyter,Jupyter,F37626;googlecolab,Google+Colab,F9AB00;&line3=github,GitHub,181717;git,Git,F05032;visualstudiocode,VS+Code,007ACC;kaggle,Kaggle,20BEFF;oracle,Oracle+SQL,F80000;" alt="Nikita's Tech Stack" />
+  </a>
 </p>
 
 ---
@@ -142,8 +129,8 @@
 <summary>🏆 <b>Achievements</b></summary>
 <br>
 
-- ⭐ **458+ GitHub Contributions** in 2024
-- 🔥 Consistent coding streak — learning through daily practice
+- ⭐ **461+ GitHub Contributions** — actively growing!
+- 🔥 Current Streak: consistent daily practice
 - 📚 Strong academic foundation: DSA, DBMS, OS, OOP
 - 🥇 Active on Kaggle — datasets & notebooks published
 
@@ -153,13 +140,13 @@
 
 ## 🐍 Contribution Snake
 
-> ⚙️ **Setup required:** Go to your repo → Actions tab → New Workflow → paste the snake YAML → run it once. Then this will auto-update daily!
-
-<!-- Once snake is set up, uncomment this line and delete the note above:
+<!-- After running the GitHub Action (snake.yml), uncomment below and delete this comment:
 <p align="center">
   <img src="https://github.com/Nikita1876/Nikita1876/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 -->
+
+> ⚙️ **Coming soon** — Setting up the GitHub Action for the snake animation!
 
 ---
 
