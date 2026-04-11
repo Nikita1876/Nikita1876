@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Nikita+Gupta" />
+</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+%7C+ML+%7C+Data+Science;Building+AI+Agents;Future+ML+Engineer" />
 </p>
