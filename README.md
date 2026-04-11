@@ -127,14 +127,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
-
-## 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikita1876&repo=100-Days-ML-Learning&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -156,8 +148,6 @@
 ⬜ Contribute to Open Source projects
 ```
 
----
-
 <p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Nikita1876&icon=0&color=6" />
@@ -167,13 +157,10 @@
 <p align="center">⭐ <i>Consistently learning through hands-on projects, problem solving, and regular practice.</i> ⭐</p>
 ---
 
-## 🚀 Tech Universe
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,express,mongodb,aws,docker,tensorflow,pytorch,sklearn,git,github,vscode&perline=8" />
-</p>
-
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=footer&text=✨%20Thanks%20for%20visiting%20my%20GitHub!%20⭐&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=footer&text=Thanks%20for%20visiting%20my%20GitHub!%20⭐&fontSize=28&fontColor=fff&animation=twinkling" width="100%"/>
