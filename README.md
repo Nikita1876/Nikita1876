@@ -1,16 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nikita%20Gupta&fontSize=50&fontColor=fff" />
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+%7C+ML+%7C+Data+Science;Building+AI+Agents;Future+ML+Engineer" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ASPIRING_DATA_ANALYST-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/COMPUTER_SCIENCE-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_%26_ML_ENTHUSIAST-20BEFF?style=for-the-badge" />
-</p>
 
 <p align="center">
   <a href="mailto:nikitagupta1812@gmail.com">
