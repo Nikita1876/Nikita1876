@@ -96,21 +96,32 @@
   - 🎓 Started B.Tech in Computer Science
   - 💻 Learned C, C++, Java & Core Programming
 ```
+## ✨ 🛠️ Languages & Tools
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express" height="80"/>
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,redux" height="75"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,pandas,sklearn,tensorflow,pytorch" height="80"/>
+<!-- Backend + Programming -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cpp" height="75"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,docker" height="80"/>
+<!-- Data Science / ML -->
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch,opencv" height="75"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,kaggle" height="80"/>
+<!-- Databases + Cloud -->
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,azure,gcp,docker,kubernetes" height="75"/>
+
+<br><br>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,jupyter,linux,bash,figma" height="75"/>
 
 </div>
 ### 🏆 Competitive Programming & Profiles
