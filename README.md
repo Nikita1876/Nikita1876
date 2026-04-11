@@ -1,28 +1,33 @@
-<h1 align="center">👋 Hi, I'm Nikita Gupta</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Nikita%20Gupta&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20CS%20Undergraduate&descAlignY=55&descSize=18" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst+%7C+AI+%26+ML+Enthusiast;Building+AI+Agents+%7C+Learning+Daily;Computer+Science+Undergraduate+%40+Kanpur;Data+Science+%7C+Machine+Learning+%7C+Software+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=🤖+Building+AI+Agents+%7C+Learning+Daily;📊+Data+Science+%7C+Machine+Learning+%7C+NLP;⚙️+ML+Models+→+Backend+→+Scalable+Solutions;🚀+Targeting+Top+DS+%26+ML+Roles!" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ASPIRING_DATA_ANALYST-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/COMPUTER_SCIENCE-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IIT_KANPUR-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI_%26_ML_ENTHUSIAST-20BEFF?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <b>Computer Science Undergraduate passionate about Data Science, Machine Learning, AI Agents, and building scalable software solutions.</b>
+  <a href="mailto:2k23.cs2310561@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nikita-gupta-998637269"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://github.com/Nikita1876"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🙋‍♀️ About Me
 
-- 🎓 CS Undergraduate with strong fundamentals in **DSA, Python, SQL & Core CS subjects**
-- 📊 Focused on **Data Analysis, ML fundamentals & building intelligent applications**
-- ⚙️ End-to-end builder: **ML models → backend → scalable solutions**
-- 🌐 Hands-on in **data-driven and system-oriented problem solving**
-- 🚀 Targeting **Data Science / ML / Software Engineering fresher roles** through high-impact projects
+- 🎓 **3rd Year B.Tech (CS)** — building real-world AI/ML systems
+- 📊 Focused on **Deep Learning, NLP & Data-driven intelligent applications**
+- ⚙️ End-to-end engineer: **ML models → backend → scalable solutions**
+- 🌐 Full Stack developer delivering **production-ready AI-powered apps**
+- 🚀 Targeting **Data Science / ML / SWE roles** at top tech companies through high-impact projects
 
 ---
 
@@ -40,7 +45,14 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -56,13 +68,13 @@
 
 ```
 2026 - Current:
-  - 🚀 Advanced AI & ML Projects
-  - 🤖 Building AI Agents & Intelligent Applications
+  - 🚀 Advanced AI & Deep Learning Projects
+  - 🤖 Building AI Agents & RAG Applications
   - 🧠 Exploring Deep Learning & Neural Networks
 
 2025 - 2026:
   - 📊 Data Science & Machine Learning Fundamentals
-  - 🌐 Full Stack Web Development Basics
+  - 🌐 Full Stack Web Development (React + FastAPI)
   - 🏆 Kaggle Competitions & Real-world Projects
 
 2024 - 2025:
@@ -72,7 +84,7 @@
 
 2023 - 2024:
   - 🎓 Started B.Tech in Computer Science
-  - 💻 Learned C, C++ & Core Programming
+  - 💻 Learned C, C++ & Core Programming Foundations
 ```
 
 ---
@@ -80,9 +92,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <a href="https://github-readme-tech-stack.vercel.app">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages+%26+Tools&align=center&titleAlign=center&lineCount=3&theme=github_dark&line1=python,Python,3776AB;cplusplus,C%2B%2B,00599C;c,C,A8B9CC;javascript,JavaScript,F7DF1E;mysql,MySQL,4479A1;&line2=pandas,Pandas,150458;numpy,NumPy,013243;scikitlearn,Scikit-Learn,F7931E;jupyter,Jupyter,F37626;googlecolab,Google+Colab,F9AB00;&line3=github,GitHub,181717;git,Git,F05032;visualstudiocode,VS+Code,007ACC;kaggle,Kaggle,20BEFF;oracle,Oracle+SQL,F80000;" alt="Nikita's Tech Stack" />
-  </a>
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages+%26+Tools&align=center&titleAlign=center&lineCount=3&theme=github_dark&line1=python,Python,3776AB;cplusplus,C%2B%2B,00599C;c,C,A8B9CC;javascript,JavaScript,F7DF1E;mysql,MySQL,4479A1;&line2=pandas,Pandas,150458;numpy,NumPy,013243;scikitlearn,Scikit-Learn,F7931E;tensorflow,TensorFlow,FF6F00;fastapi,FastAPI,009688;&line3=github,GitHub,181717;git,Git,F05032;visualstudiocode,VS+Code,007ACC;jupyter,Jupyter,F37626;googlecolab,Google+Colab,F9AB00;" alt="Nikita's Tech Stack" />
 </p>
 
 ---
@@ -99,18 +109,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita1876&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="40%" alt="Top Languages"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nikita1876&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
+</p>
+
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
 <details>
 <summary>🖥️ <b>Software Engineering Focus</b></summary>
 <br>
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🔗 [Project Name](#) | Brief description of what it does | Python, SQL |
-| 🔗 [Project Name](#) | Brief description of what it does | JavaScript |
+| 🚀 Project | 📝 Description | 🛠️ Tech |
+|-----------|----------------|---------|
+| 🔗 [Project Name](#) | Brief description of what it does | Python, FastAPI, SQL |
+| 🔗 [Project Name](#) | Brief description of what it does | JavaScript, Node.js |
 
 </details>
 
@@ -118,10 +132,10 @@
 <summary>📊 <b>Data Science & Machine Learning</b></summary>
 <br>
 
-| Project | Description | Tech |
-|---------|-------------|------|
+| 🚀 Project | 📝 Description | 🛠️ Tech |
+|-----------|----------------|---------|
 | 🔗 [Project Name](#) | ML model / EDA description | Python, Pandas, Sklearn |
-| 🔗 [Project Name](#) | Data analysis project | NumPy, Matplotlib |
+| 🔗 [Project Name](#) | Data analysis / prediction | NumPy, Matplotlib, TF |
 
 </details>
 
@@ -130,9 +144,10 @@
 <br>
 
 - ⭐ **461+ GitHub Contributions** — actively growing!
-- 🔥 Current Streak: consistent daily practice
+- 🔥 **53-day longest streak** — consistent daily practice
 - 📚 Strong academic foundation: DSA, DBMS, OS, OOP
-- 🥇 Active on Kaggle — datasets & notebooks published
+- 🥇 Active on **Kaggle** — datasets & notebooks published
+- 🎯 Building toward top DS/ML internship roles
 
 </details>
 
@@ -140,13 +155,15 @@
 
 ## 🐍 Contribution Snake
 
-<!-- After running the GitHub Action (snake.yml), uncomment below and delete this comment:
 <p align="center">
   <img src="https://github.com/Nikita1876/Nikita1876/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
--->
 
-> ⚙️ **Coming soon** — Setting up the GitHub Action for the snake animation!
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kshama-1104/Kshama-1104/main/assets/banner.gif" alt="Tech Banner" width="800"/>
+</p>
 
 ---
 
@@ -154,11 +171,13 @@
 
 ```
 ✅ Master Python for Data Science
+✅ Build consistent GitHub streak
 ⬜ Build & deploy an end-to-end AI Agent
-⬜ Complete 5+ Kaggle projects
+⬜ Complete 5+ Kaggle competitions
 ⬜ Land a Data Science / ML internship
-⬜ Learn Deep Learning (CNNs, NLP basics)
-⬜ Start writing technical blogs
+⬜ Learn Deep Learning (CNNs, Transformers)
+⬜ Start writing technical blogs on Medium
+⬜ Contribute to Open Source projects
 ```
 
 ---
@@ -167,6 +186,8 @@
   <img src="https://komarev.com/ghpvc/?username=Nikita1876&style=for-the-badge&color=A855F7" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=fff&animation=twinkling" alt="footer" />
-</p>
+<p align="center">⭐ <i>Consistently learning through hands-on projects, problem solving, and regular practice.</i> ⭐</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks+for+visiting+my+GitHub!+⭐&fontSize=22&fontColor=fff&animation=twinkling" />
+</div>
