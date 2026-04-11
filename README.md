@@ -96,34 +96,19 @@
   - 🎓 Started B.Tech in Computer Science
   - 💻 Learned C, C++, Java & Core Programming
 ```
+## ✨ 🛠️ Languages & Tools
 
-## 🛠️ Languages & Tools
+<p align="center">
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express" /><br><br>
 
-<!-- Frontend -->
-<h3>🎨 Frontend</h3>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,numpy,pandas,sklearn,tensorflow,pytorch,opencv" /><br><br>
 
-<!-- Backend -->
-<h3>⚙️ Backend</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,azure,gcp,docker,kubernetes" /><br><br>
 
-<!-- AI / ML -->
-<h3>🤖 AI / ML</h3>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,jupyter,linux,bash,figma" />
 
-<!-- Databases -->
-<h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-<!-- Tools -->
-<h3>🧰 Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,aws,firebase" />
-
-</div>
-
-<br/>
+</p>
 
 ### 🏆 Competitive Programming & Profiles
 <p align="left">
