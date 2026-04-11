@@ -41,8 +41,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -52,11 +52,18 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -81,21 +88,40 @@
 
 2023 - 2024:
   - 🎓 Started B.Tech in Computer Science
-  - 💻 Learned C, C++ & Core Programming Foundations
+  - 💻 Learned C, C++, Java & Core Programming
 ```
 
 ---
 
 ## 🛠️ Languages & Tools
 
+<!-- Row 1: Programming Languages -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,mysql&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js&theme=dark&perline=7" />
 </p>
+
+<!-- Row 2: ML / Data Science -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,fastapi&theme=dark&perline=7" />
 </p>
+
+<!-- Row 3: Tools & IDEs -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,jupyter,linux,aws,docker&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,idea,pycharm&theme=dark&perline=7" />
+</p>
+
+<!-- Row 4: Cloud & Platforms -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,mysql,postgres&theme=dark&perline=7" />
+</p>
+
+<!-- Row 5: Jupyter, Colab, Kaggle as badges (not in skillicons) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=1e1e2e" height="45" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=black&labelColor=1e1e2e" height="45" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white&labelColor=1e1e2e" height="45" />
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=1e1e2e" height="45" />
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=1e1e2e" height="45" />
 </p>
 
 ---
@@ -127,7 +153,7 @@
 | 🚀 Project | 📝 Description | 🛠️ Tech |
 |-----------|----------------|---------|
 | 🔗 [Project Name](#) | Brief description of what it does | Python, FastAPI, SQL |
-| 🔗 [Project Name](#) | Brief description of what it does | JavaScript |
+| 🔗 [Project Name](#) | Brief description of what it does | Java, JavaScript |
 
 </details>
 
