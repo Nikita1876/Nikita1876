@@ -92,21 +92,29 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠 Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,aws,python,tensorflow,pytorch,sklearn,git,github,vscode,jupyter,docker&perline=7" />
+### 🌐 Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
 </p>
+
+### 🤖 AI/ML & Programming
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,c,cpp,java" />
+</p>
+
+### ☁️ DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikita1876&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita1876&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nikita1876&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" alt="Streak" />
 </p>
 
 ## 🏆 GitHub Trophies
