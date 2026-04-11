@@ -102,7 +102,6 @@
   <img src="https://raw.githubusercontent.com/Nikita1876/Nikita1876/main/skills.png" width="100%" />
 </p>
 
-
 ### 🏆 Competitive Programming & Profiles
 <p align="left">
   <a href="https://leetcode.com/YOUR_USERNAME" target="_blank">
