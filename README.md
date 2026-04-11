@@ -92,33 +92,14 @@
 
 ## 🛠 Languages & Tools
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,postman,figma&perline=5" height="75" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,kaggle,colab,jupyter,fastapi,mysql,postgres&perline=5" height="75" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,unity,blender,aws,docker,linux,bash&perline=5" height="75" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,replit,pycharm,idea,androidstudio,pydantic&perline=5" height="75" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,postman,figma,py,tensorflow,pytorch,sklearn,kaggle,colab,jupyter,fastapi,mysql,postgres,c,cpp,java,cs,unity,blender,aws,docker,linux,bash,git,github,vscode,replit,pycharm,idea,androidstudio&perline=9" height="75" />
+</p>
 
 <br/>
 
 ### 🏆 Competitive Programming & Profiles
-<p align="center">
+<p align="left">
   <a href="https://leetcode.com/YOUR_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="45" />
   </a>
