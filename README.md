@@ -93,21 +93,41 @@
 ---
 
 ## 🛠 Languages & Tools
-
-### 🌐 Web Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb" alt="Web Development" />
 </p>
 
-### 🤖 AI/ML & Programming
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,c,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,kaggle,colab,c,cpp,java" alt="AI/ML & Programming" />
 </p>
 
-### ☁️ DevOps & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman,cs,unity,blender" alt="DevOps & Tools" />
 </p>
+
+## 📊 Data & Comp Programming
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jupyter,kaggle" alt="Data Science" />
+  <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
+
+<br/>
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gotham" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=gotham" alt="Streak" />
+</p>
+
+---
+## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
