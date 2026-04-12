@@ -119,7 +119,12 @@
 🔮 Future Goals  
 - Build advanced NLP projects  
 - Contribute to open-source ML projects  
-- Secure internship at a top tech/startup company  
+- Secure internship at a top tech/startup company
+ 🏆 2025 – Kaggle & Certifications  
+- Completed AI Agents Intensive (Kaggle × Google)  
+- Earned Kaggle badges (Datasets, Notebooks, Competitions)  
+- 📜 [AI Agents Certificate](./AI%20Agents%20Intensive%20Google.png)  
+- 📜 [Machine Learning Certificate](./Machine%20Learning.png)
 ---
 
 ## ✨ 🛠️ Languages & Tools
