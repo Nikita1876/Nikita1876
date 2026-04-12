@@ -85,9 +85,41 @@
 </p>
 
 ---
+## 📅 Milestone Timeline
 
-## 🗓️ Milestone Timeline
+🚀 2023 – Started Coding Journey  
+- Learned basics of Python, C, and C++  
+- Built foundational programming skills  
 
+💻 2024 – Strengthened Core Concepts  
+- Solved 200+ DSA problems on LeetCode  
+- Learned DBMS, OOPs, Operating Systems  
+
+📊 2024 – Entered Data Science & ML  
+- Learned Pandas, NumPy, EDA, Data Cleaning  
+- Built ML models using Scikit-learn  
+
+🏆 2025 – Kaggle & Achievements  
+- Earned Kaggle badges in datasets / notebooks  
+- Completed AI Agent course on Kaggle  
+- Practiced real-world datasets and analysis  
+
+📈 2025 – Projects & Practical Work  
+- Built Blinkit Sales Analysis project  
+- Performed EDA, visualization, and insights extraction  
+
+🌐 2025 – Open Source & Contributions  
+- Contributor at GirlScript Summer of Code (GSSoC)  
+- Worked on collaborative development projects  
+
+🎯 2026 – Current Focus  
+- Exploring NLP, AI Agents, and real-world ML problems  
+- Actively applying for ML / Data / SDE internships  
+
+🔮 Future Goals  
+- Build advanced NLP projects  
+- Contribute to open-source ML projects  
+- Secure internship at a top tech/startup company  
 ---
 
 ## ✨ 🛠️ Languages & Tools
