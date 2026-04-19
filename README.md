@@ -30,7 +30,7 @@
 ## 💫 About Me
 
 - 🔭 I'm currently working on **AI Agents, Data Science projects & ML model deployment**
-- 🤝 I'm looking to collaborate on **Data Science, Machine Learning & Full Stack projects**
+- 🤝 I'm looking to collaborate on **Data Science, Machine Learning **
 - 🆘 I'm looking for help with **Deep Learning (CNNs, Transformers) & Open Source contributions**
 - 🌱 I'm currently learning **Deep Learning, NLP, RAG-based applications & Cloud (AWS)**
 - 💬 Ask me about **Python, Data Analysis, Machine Learning, DSA & SQL**
