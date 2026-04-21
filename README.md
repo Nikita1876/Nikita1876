@@ -37,7 +37,7 @@
 - ⚡ Fun fact: **I made 461+ GitHub contributions while being a full-time CS student! 🚀**
 
 ---
-## 🧠 Skills Highlight
+##  Skills Highlighted:
 
 <p align="center">
   <!-- Languages -->
