@@ -27,7 +27,7 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 
 - 🔭 I'm currently working on **AI Agents, Data Science projects & ML model deployment**
 - 🤝 I'm looking to collaborate on **Data Science, Machine Learning **
