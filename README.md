@@ -32,10 +32,8 @@
 - 🌱 I'm currently learning **Deep Learning, NLP, RAG-based applications & Cloud (AWS)**
 - 💬 Ask me about **Python, Data Analysis, Machine Learning, DSA & SQL**
 - ⚡ Fun fact: **I made 4600+ GitHub contributions while being a full-time CS student! 🚀**
-
 ---
 ##  Skills Highlighted:
-
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
