@@ -21,11 +21,8 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
 ---
-
 ##  About Me
-
 - 🔭 I'm currently working on **Data Science projects & ML model deployment**
 - 🤝 I'm looking to collaborate on **Data Science, Machine Learning **
 - 🆘 I'm looking for help with **Deep Learning (CNNs, Transformers) & Open Source contributions**
