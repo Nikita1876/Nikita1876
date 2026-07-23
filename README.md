@@ -38,7 +38,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
 <p align="center">
   <!-- ML / DS -->
   <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=orange" />
