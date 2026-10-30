@@ -79,7 +79,7 @@
 ## 📅 Milestone Timeline
 
 🚀 2023 – Started Coding Journey  
-- Learned basics of Python, C, and C++  
+- Learned basics of Python, C, and Java 
 - Built foundational programming skills  
 
 💻 2024 – Strengthened Core Concepts  
